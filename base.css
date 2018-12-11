@@ -1,0 +1,55 @@
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.center {
+  display: left;
+  margin-left: auto;
+  margin-right: auto;
+  width:25%;
+}
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+h1{
+  text-align: center;
+  font-size: large;
+
+}
+h2{
+  text-align: center;
+  text-align: left;
+}
+h3{
+  text-size: large;
+}
+div.a {
+    font-size: ;
+}
+
+div.b {
+    font-size: large;
+}
+
+div.c {
+    font-size: 150%;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
